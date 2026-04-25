@@ -1,0 +1,30 @@
+# Model checkpoints (large files)
+checkpoints/
+ckpt/
+
+# Data files (large, derived from APPS dataset)
+data/
+
+# Benchmark results (large)
+benchmark/results/
+
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+output.txt
+*.tmp
+
+# IDE / editor
+.claude/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
